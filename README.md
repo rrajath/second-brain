@@ -1,4 +1,2 @@
-# Sample page
-
-Sample Content
+# Initial page
 
