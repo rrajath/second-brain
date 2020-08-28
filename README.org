@@ -1,0 +1,19 @@
+#+TITLE: Knowledge Wiki
+#+DESCRIPTION: Contains everything I've learned so far and notes to myself
+#+STARTUP: hidestars indent
+
+This is a rough draft to see how org mode works on GitHub
+
+* Heading 1
+Lorem Ipsum ...
+** Heading 2
+Something something
+
+* Tables
+| col1 | col2 |
+|------+------|
+| val1 | val2 |
+| val3 | val4 |
+
+* Links
+[[https://rrajath.com][rrajath.com]]
