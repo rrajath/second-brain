@@ -1,3 +1,3 @@
-- [Intro](README.md)
+- [Introduction](README.md)
 - Emacs
   - [Emacs Keyboard Shortcuts](emacs/emacs-keybindings.md "Doom Emacs Keybindings")

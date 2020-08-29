@@ -1,27 +1,63 @@
 
-# Emacs Keyboard Shortcuts
+# Emacs Keybindings
 
 
 ## Commonly used/needed
 
-Following are some of the keyboard shortcuts I’ll need every now and then
+Following are some of the commonly needed keybindings that I may not remember
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-### Doom reload
+<colgroup>
+<col  class="org-left" />
 
-No need to restart Emacs app on MacOS if you run this command. Settings get applied and it’s similar to running doom sync on command line.
+<col  class="org-left" />
 
-`SPC h r r`
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Feature</th>
+<th scope="col" class="org-left">Keybinding</th>
+<th scope="col" class="org-left">Comment</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Doom reload</td>
+<td class="org-left"><code>SPC h r r</code></td>
+<td class="org-left">No need to restart Emacs. This is the same as running <code>doom sync</code></td>
+</tr>
 
 
-## Search for text using pattern or regex
+<tr>
+<td class="org-left">Search for text using pattern</td>
+<td class="org-left"><code>SPC n v</code></td>
+<td class="org-left">Searches headings in open buffers (and I think even bookmarks)</td>
+</tr>
 
-This searches headings in open buffers (and I think even bookmarks)
 
-`SPC n v`
+<tr>
+<td class="org-left">Surround region</td>
+<td class="org-left"><code>S (</code></td>
+<td class="org-left">Select a word using visual mode and then press this to change it to <code>( word )</code></td>
+</tr>
 
 
-## Surround region
+<tr>
+<td class="org-left">Set Property</td>
+<td class="org-left"><code>SPC m o</code></td>
+<td class="org-left">Sets properties to headings</td>
+</tr>
 
-elect a word using visual mode and then press `S (` to change it to `( word )`
+
+<tr>
+<td class="org-left">Jump to Org Heading</td>
+<td class="org-left"><code>C-c C-j</code></td>
+<td class="org-left">Brings up a list of headings in a mini buffer where you can jump to any heading</td>
+</tr>
+</tbody>
+</table>
 
