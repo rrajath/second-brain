@@ -7,6 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" title="docsify-darklight-theme" type="text/css">
+  <link rel="stylesheet" href="https://unpkg.com/docsify-sidebar-collapse/src/sidebar.css" />
 </head>
 <body>
   <div id="app"></div>
@@ -18,7 +19,7 @@
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
-      subMaxLevel: 1,
+      subMaxLevel: 3,
       repo: 'https://github.com/rrajath/knowledge',
       search: {
             maxAge: 86400000,
@@ -30,7 +31,9 @@
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <!-- Plugins -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
+  <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>

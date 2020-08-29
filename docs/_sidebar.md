@@ -1,3 +1,5 @@
 - [Introduction](README.md)
 - Emacs
   - [Emacs Keyboard Shortcuts](emacs/emacs-keybindings.md "Doom Emacs Keybindings")
+- Book Notes
+  - [Mental Models Vol. 1](books/mental-models-vol1.md)
