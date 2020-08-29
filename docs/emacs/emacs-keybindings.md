@@ -1,8 +1,5 @@
 
-# Emacs Keybindings
-
-
-## Commonly used/needed
+# Commonly used/needed
 
 Following are some of the commonly needed keybindings that I may not remember
 

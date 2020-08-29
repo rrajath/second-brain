@@ -1,7 +1,10 @@
 - [Introduction](README.md)
 - Emacs
   - [Emacs Keyboard Shortcuts](emacs/emacs-keybindings.md "Doom Emacs Keybindings")
+  - [OrgMode](emacs/org-mode.md)
 - Book Notes
   - [Mental Models Vol. 1](books/mental-models-vol1.md)
 - Cooking
   - [Cooking Tips](cooking/cooking-tips.md)
+- Setups
+  - [Meta](setups/meta.md)
