@@ -5,4 +5,9 @@
 Following are some of the keyboard shortcuts I'll need every now and then
 ** Doom reload
 No need to restart Emacs app on MacOS if you run this command. Settings get applied and it's similar to running =doom sync= on command line.
+
 =SPC h r r=
+** Search for text using pattern or regex
+This searches headings in open buffers (and I think even bookmarks)
+
+=SPC n v=
