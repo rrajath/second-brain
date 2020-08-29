@@ -1,5 +1,5 @@
 
-# Introduction
+# Introduction <!-- {docsify-ignore-all} -->
 
 Welcome to my Digital Garden. This is like a knowledge base where I store my notes on various topics that I come across and learn. I constantly update it as I learn new things or change my opinion on things.
 
