@@ -55,6 +55,13 @@ Following are some of the commonly needed keybindings that I may not remember
 <td class="org-left"><code>C-c C-j</code></td>
 <td class="org-left">Brings up a list of headings in a mini buffer where you can jump to any heading</td>
 </tr>
+
+
+<tr>
+<td class="org-left">Export subtree to a markdown file</td>
+<td class="org-left"><code>SPC m e C-s m m</code></td>
+<td class="org-left">Exports subtree in an org file to a .md file with the same name as the org file unless the property <code>EXPORT_FILE_NAME</code> is specified</td>
+</tr>
 </tbody>
 </table>
 
