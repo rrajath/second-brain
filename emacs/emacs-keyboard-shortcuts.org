@@ -12,3 +12,7 @@ No need to restart Emacs app on MacOS if you run this command. Settings get appl
 This searches headings in open buffers (and I think even bookmarks)
 
 =SPC n v=
+** Surround region
+Select a word using visual mode and then press =S (= to change it to =( word )=
+
+=S (=
