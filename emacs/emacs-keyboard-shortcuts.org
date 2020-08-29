@@ -1,0 +1,7 @@
+#+TITLE: Emacs Keyboard Shortcuts
+#+STARTUP: hidestars indent
+
+* Commonly used/needed
+Following are some of the keyboard shortcuts I'll need every now and then
+** Doom reload
+`SPC h r r`
