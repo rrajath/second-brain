@@ -2,8 +2,8 @@
 - Emacs
   - [Emacs Keyboard Shortcuts](emacs/emacs-keybindings.md "Doom Emacs Keybindings")
   - [OrgMode](emacs/org-mode.md)
-- Book Notes
-  - [Mental Models Vol. 1](books/mental-models-vol1.md)
+- Mental Models
+  - [Map is not the Territory](mental-models/map-is-not-the-territory.md)
 - Cooking
   - [Cooking Tips](cooking/cooking-tips.md)
 - Setups
