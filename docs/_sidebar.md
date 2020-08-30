@@ -11,3 +11,6 @@
 - Reading
   - [Long-form non-fiction blogs](reading/long-form-non-fiction-blogs.md)
   - [Things to (re-)read](reading/things-to-reread.md)
+- Writing
+  - [Writing In Plain English](writing/writing-in-plain-english.md)
+  - [Writing Tips](writing/writing-tips.md)
