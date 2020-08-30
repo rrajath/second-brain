@@ -8,3 +8,6 @@
   - [Cooking Tips](cooking/cooking-tips.md)
 - Setups
   - [Meta](setups/meta.md)
+- Read
+  - [Long-form non-fiction blogs](read/long-form-non-fiction-blogs.md)
+  - [Things to (re-)read](read/things-to-reread.md)
