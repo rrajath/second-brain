@@ -62,6 +62,13 @@ Following are some of the commonly needed keybindings that I may not remember
 <td class="org-left"><code>SPC m e C-s m m</code></td>
 <td class="org-left">Exports subtree in an org file to a .md file with the same name as the org file unless the property <code>EXPORT_FILE_NAME</code> is specified</td>
 </tr>
+
+
+<tr>
+<td class="org-left">Org Capture dispatch</td>
+<td class="org-left"><code>SPC X</code></td>
+<td class="org-left">Gives a list of capture templates to choose from</td>
+</tr>
 </tbody>
 </table>
 
