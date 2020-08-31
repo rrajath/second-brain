@@ -83,6 +83,20 @@ Following are some of the commonly needed keybindings that I may not remember
 <td class="org-left"><code>SPC s f</code></td>
 <td class="org-left">Searches for files by name in the entire OS, not just the current directory</td>
 </tr>
+
+
+<tr>
+<td class="org-left">Open private config folder</td>
+<td class="org-left"><code>SPC f p</code></td>
+<td class="org-left">This opens the <code>~/.doom.d/</code> folder where you can select a file to open</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Switch workspaces</td>
+<td class="org-left"><code>Cmd+&lt;N&gt;</code></td>
+<td class="org-left">Switch to the Nth workspace by hitting Command+N</td>
+</tr>
 </tbody>
 </table>
 
@@ -100,4 +114,10 @@ Using `evil-snipe`. Use `s` (forward snipe) or `S` (backward snipe) and immediat
 Use `,` to navigate to previous results and `;` to navigate to next results (if there are multiple results)
 
 **Remember**: `evil-snipe` takes only two characters.
+
+
+# Switch between **TODO** and **DONE** states using Enter
+
+Press Enter (or **RET**) to change the state of a **TODO** item between **TODO** and **DONE** states. This behavior is similar to crossing items off a checklist **[ ]**
+Remember: this only switches between **TODO** and **DONE** and not any other states
 
