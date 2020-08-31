@@ -1,6 +1,6 @@
 - [Introduction](README.md)
 - Emacs
-  - [Emacs Keyboard Shortcuts](emacs/emacs-keybindings.md "Doom Emacs Keybindings")
+  - [Tips & Tricks](emacs/emacs-tips-tricks.md "Doom Emacs Keybindings")
   - [OrgMode](emacs/org-mode.md)
 - Mental Models
   - [Map is not the Territory](mental-models/map-is-not-the-territory.md)

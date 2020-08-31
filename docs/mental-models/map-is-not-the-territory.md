@@ -1,10 +1,6 @@
+Inspiration: [The Great Mental Models Vol. 1](https://www.amazon.com/Great-Mental-Models-Thinking-Concepts-ebook/dp/B07P79P8ST)
 
-# Intro
-
-
-## The power of acquiring new mental models
-
-The quality of our thinking is largely influenced by the mental models in our heads. We learn something specific and don&rsquo;t get exposure to the big ideas of other disciplines. We don&rsquo;t develop the multi disciplinary mindset to accurately see a new problem.
+> The quality of our thinking is largely influenced by the mental models in our heads. We learn something specific and don&rsquo;t get exposure to the big ideas of other disciplines. We don&rsquo;t develop the multi disciplinary mindset to accurately see a new problem.
 
 
 # The Map is not the Territory

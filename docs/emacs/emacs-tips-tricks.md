@@ -1,5 +1,5 @@
 
-# Commonly used/needed
+# Keybindings
 
 Following are some of the commonly needed keybindings that I may not remember
 
@@ -52,8 +52,8 @@ Following are some of the commonly needed keybindings that I may not remember
 
 <tr>
 <td class="org-left">Jump to Org Heading</td>
-<td class="org-left"><code>C-c C-j</code></td>
-<td class="org-left">Brings up a list of headings in a mini buffer where you can jump to any heading</td>
+<td class="org-left"><code>C-c C-j</code> or <code>SPC s i</code></td>
+<td class="org-left">Brings up a list of headings in a mini buffer where you can jump to any heading <b>in the current file</b></td>
 </tr>
 
 
@@ -69,6 +69,35 @@ Following are some of the commonly needed keybindings that I may not remember
 <td class="org-left"><code>SPC X</code></td>
 <td class="org-left">Gives a list of capture templates to choose from</td>
 </tr>
+
+
+<tr>
+<td class="org-left">Search for files in the project</td>
+<td class="org-left"><code>SPC s p</code></td>
+<td class="org-left">You may have to switch to a different project if you want to find files in a different folder</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Locate files</td>
+<td class="org-left"><code>SPC s f</code></td>
+<td class="org-left">Searches for files by name in the entire OS, not just the current directory</td>
+</tr>
 </tbody>
 </table>
+
+
+# Jump to word in a file
+
+Type `g s SPC`. This will dim the screen where you can search for any string. After you type your characters, if there is only one match, it&rsquo;ll highlight the beginning of that word with a letter (usually, the letter `a`). Typing `a` will take the cursor to that word. If there are multiple words, Emacs will highlight each occurrence with one or two letter which you can then type and get to that word. It&rsquo;s super convenient in large files.
+
+**Note**: This whole thing works only in the **visible portion of the screen** and not the entire doc.
+
+
+# Jump to word in the same line
+
+Using `evil-snipe`. Use `s` (forward snipe) or `S` (backward snipe) and immediately type couple of characters of the word you want to jump to.
+Use `,` to navigate to previous results and `;` to navigate to next results (if there are multiple results)
+
+**Remember**: `evil-snipe` takes only two characters.
 
