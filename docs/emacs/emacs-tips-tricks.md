@@ -95,7 +95,7 @@ Following are some of the commonly needed keybindings that I may not remember
 <tr>
 <td class="org-left">Switch workspaces</td>
 <td class="org-left"><code>Cmd+&lt;N&gt;</code></td>
-<td class="org-left">Switch to the Nth workspace by hitting Command+N</td>
+<td class="org-left">Switch to the Nth workspace by hitting Cmd+N</td>
 </tr>
 </tbody>
 </table>
@@ -119,5 +119,6 @@ Use `,` to navigate to previous results and `;` to navigate to next results (if 
 # Switch between **TODO** and **DONE** states using Enter
 
 Press Enter (or **RET**) to change the state of a **TODO** item between **TODO** and **DONE** states. This behavior is similar to crossing items off a checklist **[ ]**
-Remember: this only switches between **TODO** and **DONE** and not any other states
+
+**Remember**: this only switches between **TODO** and **DONE** and not any other states
 
