@@ -97,6 +97,13 @@ Following are some of the commonly needed keybindings that I may not remember
 <td class="org-left"><code>Cmd+&lt;N&gt;</code></td>
 <td class="org-left">Switch to the Nth workspace by hitting Cmd+N</td>
 </tr>
+
+
+<tr>
+<td class="org-left">Filter headings by tags</td>
+<td class="org-left"><code>C-c \</code></td>
+<td class="org-left">Hitting this will give you a list of tags which you can select and filter by</td>
+</tr>
 </tbody>
 </table>
 
