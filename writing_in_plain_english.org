@@ -1,0 +1,71 @@
+#+title: Writing in Plain English
+#+DATE: <2020-09-02 Wed>
+#+hugo_base_dir: /Users/rajath/bleh/hugo/github-pages/blog
+#+hugo_section: knowledge
+
+- tags :: [[file:writing.org][Writing]]
+- source :: [[http://www.plainenglish.co.uk/how-to-write-in-plain-english.html][How to write in plain English]]
+
+* Summary
+Rules of thumb:
+- Keep your sentences short
+- Prefer active verbs
+- Use 'you' and 'we'
+- Use words that are appropriate for your reader
+- Don't be afraid to give instructions
+- Avoid nominalizations
+- Use lists where appropriate
+
+* Active vs. Passive verbs
+
+Example of an active sentence:
+Peter (subject) watched (verb) the television (object)
+
+In passive sentences, the subject becomes the object and vice versa.
+Example of a passive sentence:
+The television (subject) was watched (verb) by Peter (object)
+
+*Note*:
+1. Subject is not always a person, object is not always a thing
+2. Almost always use active sentences
+
+*Good use of passives*
+Times when using passive words are more appropriate:
+- To make things less hostile - 'this bill has not been paid' (passive) is softer than 'you have not paid the bill' (active)
+- To avoid taking the blame - 'a mistake was made' (passive) vs. 'we made a mistake' (active)
+- When you don't know who or what the doer is - 'the England team has been picked'
+- Or, if it just sounds better
+
+* Don't be afraid to give instrutions
+
+For example,
+- Sit
+- Brush your teeth
+- Work out
+- Meditate
+
+/There always seems to be a fear of commands. The most common fault is putting 'customers should do this' or 'you should do this' instead of just 'do this'. Perhaps people worry that commands sound too harsh. But you can often solve this by putting the word 'please' in front. However, if something must be done, it is best not to say ‘please’ as it gives the reader the option to refuse the request./
+
+* Avoid nominalizations
+
+/A nominalization is an abstract noun. In other words, it's the name of something that isn't a physical object, such as a process, technique or emotion./
+
+| Verb        | Nominalization |
+|-------------+----------------|
+| complete    | completion     |
+| introduce   | introduction   |
+| provide     | provision      |
+| fail        | failure        |
+| arrange     | arrangement    |
+| investigate | inestigation   |
+
+*What's wrong with them?*
+
+/The problem is that often they are used instead of the verbs they come from. And because they are merely the names of things, they sound as if nothing is actually happening in the sentence. Like passive verbs, too many of them make writing very dull and heavy-going./
+
+Examples:
+- We had a discussion about the matter. vs. *We discussed the matter*
+- There will be a stoppage of trains by drivers. vs. *Drivers will stop the trains*
+- The implementation of the method has been done by a team. vs. *The team has implemented the method*
+
+Go to the last sections of [[http://www.plainenglish.co.uk/how-to-write-in-plain-english.html][How to write in plain English]] page to get the list of *words to avoid*.

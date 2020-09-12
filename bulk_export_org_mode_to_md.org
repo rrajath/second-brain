@@ -1,0 +1,11 @@
+#+title: Bulk Export org-mode to md
+#+HUGO_AUTO_SET_LASTMOD: t
+#+hugo_base_dir: /Users/rajath/bleh/hugo/github-pages/blog
+#+hugo_section: knowledge
+
+- tags :: [[file:orgmode.org][OrgMode]], [[file:emacs.org][Emacs]], [[file:workflows.org][Workflows]]
+- source :: [[https://blog.mikecordell.com/2019/04/14/bulk-org-mode-to-github-flavored-markdown.html][Bulk export org-mode to markdown]]
+
+- TODO: implement the script in the above link to make the following changes:
+  - send all org files to a specific folder where [[file:docsify.org][Docsify]] is hosted
+  - index.org must be renamed to =_sidebar.md= at destination

@@ -1,0 +1,12 @@
+#+title: OrgMode links to headings
+#+DATE: <2020-09-08 Tue>
+#+hugo_base_dir: /Users/rajath/bleh/hugo/github-pages/blog
+#+hugo_section: knowledge
+
+- tags :: [[file:emacs.org][Emacs]], [[file:productivity.org][Productivity]], [[file:orgmode.org][OrgMode]],  [[file:workflows.org][Workflows]]
+
+* Add a link to headings in other org files
+
+Use =file:~/path/to/file.org::Target=
+- =Target= searches for a heading called =Target=. If not found, it'll ask to create one
+- =*Target= points to a heading called Target

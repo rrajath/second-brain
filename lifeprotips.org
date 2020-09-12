@@ -1,0 +1,7 @@
+#+title: LifeProTips
+#+DATE: <2020-09-08 Tue>
+#+hugo_base_dir: /Users/rajath/bleh/hugo/github-pages/blog
+#+hugo_section: knowledge
+
+
+- Opening a banana upside down will make the stringy things stick to the peel (source: [[https://www.reddit.com/r/YouShouldKnow/comments/iowz3a/ysk_if_you_open_a_banana_upside_down_all_the][reddit]])

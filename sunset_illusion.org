@@ -1,0 +1,16 @@
+#+title: Sunset Illusion
+#+HUGO_AUTO_SET_LASTMOD: t
+#+hugo_base_dir: /Users/rajath/bleh/hugo/github-pages/blog
+#+hugo_section: knowledge
+#+HUGO_TAGS: astrophysics
+
+- tags :: [[file:astrophysics.org][Astrophysics]]
+- source :: [[https://www.youtube.com/watch?v=9bww_ux8NCo][YouTube]]
+
+* Sunset Illusion
+:PROPERTIES:
+:ID:       49c1a1a9-6d31-4334-95ab-168dc4ad44aa
+:END:
+When light travels from one medium to another, it refracts. You can see this when you look at a straw through a glass of water. Similarly, when the light coming from the sun enters the Earth's atmosphere, it bends. So, when you look at a sunrise or a sunset, in actuality the sun would have already set, that is it would actually be under the horizon. Same with sunrise. When you see the sun rise, the light bends but the sun is still under the horizon.
+
+This lasts between 5 and 10 minutes. So, on equinox (exact 12 hour split of day and night) because of the refractive effect, you wouldn't see the sunrise and sunset times on your weather app to be exactly 12 hours apart.
