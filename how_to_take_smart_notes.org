@@ -4,6 +4,9 @@
 #+hugo_section: knowledge
 
 * Taking smart notes
+:PROPERTIES:
+:ID:       b8caee5c-5d5a-44fd-83ff-c618acbfb141
+:END:
 - take *fleeting notes*. Have a single place where all your notes go. These notes won't be part of your zettelkasten. They go into trash
 - review your fleeting notes the same day so that you don't forget the context in which you captured those notes
 - make those notes part of your zettelkasten. These become *permanent notes*

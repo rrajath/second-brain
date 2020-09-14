@@ -35,3 +35,4 @@
 - [[file:sunset_illusion.org][Sunset Illusion]]
 - [[file:earth_s_orbit_is_not_a_long_ellipse.org][Earth's Orbit is not a long ellipse]]
 - [[file:how_to_take_smart_notes.org][How to take smart notes]]
+- [[file:how_to_model_a_zettel.org][How to model a Zettel]]
