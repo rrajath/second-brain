@@ -1,0 +1,11 @@
+#+TITLE: Continued Influence Effect
+#+HUGO_AUTO_SET_LASTMOD: t
+#+hugo_base_dir: /Users/rajath/bleh/hugo/github-pages/blog
+#+hugo_section: knowledge
+
+- tags :: [[file:cognitive_biases.org][Cognitive Biases]]
+
+* Concept
+Even when we learn that something is incorrect, parts of the belief still remain intact.
+
+I see this in some [[file:customs_and_traditions.org][Customs and Traditions]] that we follow.

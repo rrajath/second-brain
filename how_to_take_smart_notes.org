@@ -3,13 +3,15 @@
 #+hugo_base_dir: /Users/rajath/bleh/hugo/github-pages/blog
 #+hugo_section: knowledge
 
+- tags :: [[file:zettelkasten.org][Zettelkasten]], [[file:note_taking.org][Note Taking]]
+
 * Taking smart notes
 :PROPERTIES:
 :ID:       b8caee5c-5d5a-44fd-83ff-c618acbfb141
 :END:
-- take *fleeting notes*. Have a single place where all your notes go. These notes won't be part of your zettelkasten. They go into trash
+- take *fleeting notes*. Have a single place where all your notes go. These notes won't be part of your [[file:zettelkasten.org][Zettelkasten]]. They go into trash
 - review your fleeting notes the same day so that you don't forget the context in which you captured those notes
-- make those notes part of your zettelkasten. These become *permanent notes*
+- make those notes part of your [[file:zettelkasten.org][Zettelkasten]]. These become *permanent notes*
 - there's also *project notes* which are specific to a project. They can be archived once the project is complete. - I want to implement this, but not sure how to manage and keep it separate from the main set of notes.
 - you should spend most of your time thinking and reflecting on what you learnt, not fiddling with the tools you use
 - if you spend too much time customizing or configuring your tools, you are using the wrong tools

@@ -1,0 +1,18 @@
+#+TITLE: Zeigarnik Effect
+#+HUGO_AUTO_SET_LASTMOD: t
+#+hugo_base_dir: /Users/rajath/bleh/hugo/github-pages/blog
+#+hugo_section: knowledge
+
+- tags :: [[file:cognitive_biases.org][Cognitive Biases]]
+- source :: [[file:book_how_to_take_smart_notes.org][Book: How to take Smart Notes]]
+
+* Concept
+- Open tasks tend to occupy our short-term memory until they're finished. That's why we constantly get distracted by temporary and unfinished tasks even though they're not important.
+- To understand this a little further, say, you are working on something and something small but less important task comes up. You want to finish it off so that you don't have to deal with it, so you may switch to it. You may get interrupted again and this small task is not finished. But it's constantly running on your mind because you've left it open.
+- Example: a waiter can clearly remember who ordered what at a dinner table, but immediately forgets everything as soon as the people at the table are done with their meal and leave the restaurant
+* Questions
+:PROPERTIES:
+:ID:       e58e5acf-a835-4887-acb3-5901c7630d08
+:END:
+- [[file:question.org][Question]]: How can this be applied effectively?
+  + Answer: [[file:using_zeigarnik_effect_to_our_advantage.org][Using Zeigarnik Effect to our advantage]]
