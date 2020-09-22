@@ -1,0 +1,17 @@
+#+TITLE: Broken Window Theory
+#+HUGO_AUTO_SET_LASTMOD: t
+#+hugo_base_dir: /Users/rajath/bleh/hugo/github-pages/blog
+#+hugo_section: knowledge
+#+roam_tags: unfinished
+
+- tags :: [[file:mental_models.org][Mental Models]]
+
+* Concept
+#+BEGIN_QUOTE
+One unrepaired broken window is a signal that no one cares, and so breaking more windows costs nothing - James Q. Wilson
+#+END_QUOTE
+The quote explains the whole concept
+
+This is seen in many places, both literally (shady neighborhoods) and metaphorically (in codebases where hacks are added on top of more hacks)
+* Questions
+- [[file:question.org][Question]]: ?

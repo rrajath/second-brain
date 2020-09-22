@@ -2,10 +2,10 @@
 #+EXPORT_FILE_NAME: /Users/rajath/bleh/org-roam-docsify-test/knowledge/docs/_sidebar.md
 #+OPTIONS: toc:nil
 
+- [[file:question.org][Questions]]
 - [[file:map_is_not_the_territory.org][Map is not the Territory]]
 - [[file:org_mode_add_links_to_headings.org][org-mode links to headings]]
 - [[file:bulk_export_org_mode_to_md.org][Bulk Export org-mode to md]]
-- [[file:orgmode_smart_archive.org][OrgMode Smart Archive]]
 - [[file:books.org][Books]]
 - [[file:book_the_great_mental_models_vol_1.org][Book: The Great Mental Models Vol.1]]
 - [[file:orgmode.org][OrgMode]]
@@ -21,7 +21,6 @@
 - [[file:databases.org][Databases]]
 - [[file:the_gettier_problem.org][The Gettier Problem]]
 - [[file:sotware_development.org][Sotware Development]]
-- [[file:do_better_code_reviews.org][Do Better Code Reviews]]
 - [[file:astrophysics.org][Astrophysics]]
 - [[file:stoicism.org][Stoicism]]
 - [[file:podcasts.org][Podcasts]]
@@ -37,3 +36,6 @@
 - [[file:slow_update_of_education_system.org][Slow update of Education System]]
 - [[file:zeigarnik_effect.org][Zeigarnik Effect]]
 - [[file:using_zeigarnik_effect_to_our_advantage.org][Using Zeigarnik Effect to our advantage]]
+- [[file:circle_of_competence.org][Circle of Competence]]
+- [[file:second_order_thinking.org][Second Order Thinking]]
+- [[file:broken_window_theory.org][Broken Window Theory]]

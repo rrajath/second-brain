@@ -2,7 +2,6 @@
 #+HUGO_AUTO_SET_LASTMOD: t
 #+hugo_base_dir: /Users/rajath/bleh/hugo/github-pages/blog
 #+hugo_section: knowledge
-#+roam_tags: unlinked
 
 - tags :: [[file:mental_models.org][Mental Models]]
 
@@ -14,4 +13,6 @@ It's a concept where people take advantage of and overuse what's common to every
 :ID:       2238f1e2-cbee-44cc-acb2-d0b1dd6c35b5
 :END:
 - [[file:question.org][Question]]: Where have I seen this happen?
+  + One of the examples I can think of is people littering on the streets? An individual person may think he's not causing much damage and each individual does it. Then it becomes a more serious problem where there's too much litter on the street. This also sounds like [[file:broken_window_theory.org][Broken Window Theory]].
+- [[file:question.org][Question]]: Does Tragedy of the Commons apply only to consumption? That is, only when individual /consumes/ from a collective source or does it also apply to each individual's trivial damage to a common resource causing significant damage to that resource making it mostly unusable or at least deteriorated.
 - [[file:question.org][Question]]: Have I seen this problem being solved?
